@@ -1,0 +1,5 @@
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\obj\Debug\net8.0\Ex_Logica_de_Programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\obj\Debug\net8.0\Ex_Logica_de_Programacao.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\obj\Debug\net8.0\Ex_Logica_de_Programacao.AssemblyInfo.cs
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\obj\Debug\net8.0\Ex_Logica_de_Programacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\obj\Debug\net8.0\Ex_Logica_de_Programacao.sourcelink.json

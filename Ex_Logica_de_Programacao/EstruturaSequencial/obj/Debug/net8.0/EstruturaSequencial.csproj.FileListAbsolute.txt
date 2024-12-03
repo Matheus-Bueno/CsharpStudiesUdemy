@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.exe
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.deps.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.runtimeconfig.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.AssemblyInfo.cs
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.sourcelink.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\refint\EstruturaSequencial.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.genruntimeconfig.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\EstruturaSequencial\obj\Debug\net8.0\ref\EstruturaSequencial.dll

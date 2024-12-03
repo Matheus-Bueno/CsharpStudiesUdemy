@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\bin\Debug\net8.0\FormatacaoString.exe
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\bin\Debug\net8.0\FormatacaoString.deps.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\bin\Debug\net8.0\FormatacaoString.runtimeconfig.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\bin\Debug\net8.0\FormatacaoString.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\bin\Debug\net8.0\FormatacaoString.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.AssemblyInfo.cs
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.sourcelink.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\refint\FormatacaoString.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\FormatacaoString.genruntimeconfig.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\Ex_Logica_de_Programacao\FormatacaoString\obj\Debug\net8.0\ref\FormatacaoString.dll
