@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\bin\Debug\net8.0\VetoresEObjetos.exe
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\bin\Debug\net8.0\VetoresEObjetos.deps.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\bin\Debug\net8.0\VetoresEObjetos.runtimeconfig.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\bin\Debug\net8.0\VetoresEObjetos.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\bin\Debug\net8.0\VetoresEObjetos.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.AssemblyInfo.cs
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.sourcelink.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\refint\VetoresEObjetos.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\VetoresEObjetos.genruntimeconfig.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\VetoresEObjetos\obj\Debug\net8.0\ref\VetoresEObjetos.dll
