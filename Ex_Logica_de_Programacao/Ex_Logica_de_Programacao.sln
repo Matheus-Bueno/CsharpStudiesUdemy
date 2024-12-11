@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{449F35FC-1E68-49EB-AE98-E9E17A405168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{449F35FC-1E68-49EB-AE98-E9E17A405168}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatacaoString", "FormatacaoString\FormatacaoString.csproj", "{BC99A25E-60F0-487E-BD63-A98CC401BA35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormatacaoString", "FormatacaoString\FormatacaoString.csproj", "{BC99A25E-60F0-487E-BD63-A98CC401BA35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaSequencial", "EstruturaSequencial\EstruturaSequencial.csproj", "{B98956DC-2E4F-48F7-917E-7465ED91A9B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaSequencial", "EstruturaSequencial\EstruturaSequencial.csproj", "{B98956DC-2E4F-48F7-917E-7465ED91A9B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{23BCF272-E47F-4C6D-AB45-A84C1938064C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{23BCF272-E47F-4C6D-AB45-A84C1938064C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepetitivaWhile", "EstruturaRepetitivaWhile\EstruturaRepetitivaWhile.csproj", "{D2BDA04D-2EB8-4F16-B475-00668A7B5A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetitivaWhile", "EstruturaRepetitivaWhile\EstruturaRepetitivaWhile.csproj", "{D2BDA04D-2EB8-4F16-B475-00668A7B5A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepetitivaFor", "EstruturaRepetitivaFor\EstruturaRepetitivaFor.csproj", "{58416CD4-B92D-41ED-BB6B-88BAC1AEFD76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetitivaFor", "EstruturaRepetitivaFor\EstruturaRepetitivaFor.csproj", "{58416CD4-B92D-41ED-BB6B-88BAC1AEFD76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{F5FA0A7B-9605-4330-864F-1969A14A1911}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{58416CD4-B92D-41ED-BB6B-88BAC1AEFD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58416CD4-B92D-41ED-BB6B-88BAC1AEFD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58416CD4-B92D-41ED-BB6B-88BAC1AEFD76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FA0A7B-9605-4330-864F-1969A14A1911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FA0A7B-9605-4330-864F-1969A14A1911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FA0A7B-9605-4330-864F-1969A14A1911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FA0A7B-9605-4330-864F-1969A14A1911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

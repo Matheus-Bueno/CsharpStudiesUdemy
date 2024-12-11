@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\bin\Debug\net8.0\ExercicioContaBancaria.exe
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\bin\Debug\net8.0\ExercicioContaBancaria.deps.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\bin\Debug\net8.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\bin\Debug\net8.0\ExercicioContaBancaria.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\bin\Debug\net8.0\ExercicioContaBancaria.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.sourcelink.json
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\refint\ExercicioContaBancaria.dll
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.pdb
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ExercicioContaBancaria.genruntimeconfig.cache
+C:\Users\Matheus\Documents\MeusProjetos\CsharpStudiesUdemy\ProgramacaoOrientadaObjetos\ExercicioContaBancaria\obj\Debug\net8.0\ref\ExercicioContaBancaria.dll

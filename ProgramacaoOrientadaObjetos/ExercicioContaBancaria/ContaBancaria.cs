@@ -5,43 +5,39 @@ namespace ExercicioContaBancaria
 {
     internal class ContaBancaria
     {
-        private int _idConta;
-        public string NomeTitular { get; private set; }
-        private double _saldo;
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
 
-        public ContaBancaria(int idConta, string nomeTitular, double saldo)
+        public ContaBancaria(int numero, string titular)
         {
-            _idConta = idConta;
-            NomeTitular = nomeTitular;
-            _saldo = saldo;
+            Numero = numero;
+            Titular = titular;
         }
 
-        public ContaBancaria(int idConta, string nomeTitular)
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            _idConta = idConta;
-            NomeTitular = nomeTitular;
-            _saldo = 0.00;
+            Deposito(depositoInicial);
         }
 
-        public int Conta
+        public void Deposito(double quantia)
         {
-            get { return _idConta; }
+            Saldo += quantia;
         }
 
-        public double Saldo
+        public void Saque(double quantia)
         {
-            get { return _saldo; }
+            Saldo -= quantia + 5.0;
         }
-
 
         public override string ToString()
         {
             return "Conta "
-                   + _idConta 
-                   + ", Titular: "
-                   + NomeTitular
+                   + Numero
+                   + ", Titular:"
+                   + Titular
                    + ", Saldo: $"
-                   + _saldo.ToString("F2", CultureInfo.InvariantCulture);
+                   + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

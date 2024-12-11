@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{F5D5F83C-B4AF-4111-940A-FF2ABD80CB42}|ExercicioContaBancaria\\ExercicioContaBancaria.csproj|solutionrelative:exerciciocontabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D0D450A-04B0-458A-9096-F959CC982492}|IntroducaoDois\\Introducao.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpstudiesudemy\\programacaoorientadaobjetos\\introducaodois\\funcionariosalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D0D450A-04B0-458A-9096-F959CC982492}|IntroducaoDois\\Introducao.csproj|solutionrelative:introducaodois\\funcionariosalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5D5F83C-B4AF-4111-940A-FF2ABD80CB42}|ExercicioContaBancaria\\ExercicioContaBancaria.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpstudiesudemy\\programacaoorientadaobjetos\\exerciciocontabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5D5F83C-B4AF-4111-940A-FF2ABD80CB42}|ExercicioContaBancaria\\ExercicioContaBancaria.csproj|solutionrelative:exerciciocontabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FuncionarioSalario.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpStudiesUdemy\\ProgramacaoOrientadaObjetos\\IntroducaoDois\\FuncionarioSalario.cs",
-              "RelativeDocumentMoniker": "IntroducaoDois\\FuncionarioSalario.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpStudiesUdemy\\ProgramacaoOrientadaObjetos\\IntroducaoDois\\FuncionarioSalario.cs",
-              "RelativeToolTip": "IntroducaoDois\\FuncionarioSalario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T20:13:00.258Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,20 +28,20 @@
               "RelativeDocumentMoniker": "ExercicioContaBancaria\\ContaBancaria.cs",
               "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpStudiesUdemy\\ProgramacaoOrientadaObjetos\\ExercicioContaBancaria\\ContaBancaria.cs",
               "RelativeToolTip": "ExercicioContaBancaria\\ContaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T20:07:07.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpStudiesUdemy\\ProgramacaoOrientadaObjetos\\ExercicioContaBancaria\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioContaBancaria\\Program.cs",
               "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpStudiesUdemy\\ProgramacaoOrientadaObjetos\\ExercicioContaBancaria\\Program.cs",
               "RelativeToolTip": "ExercicioContaBancaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T19:51:40.27Z",
               "EditorCaption": ""
